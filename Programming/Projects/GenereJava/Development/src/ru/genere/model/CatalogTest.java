@@ -10,7 +10,7 @@ public class CatalogTest {
 	
 	public static void main (String args[]) {
 		  String user = "genere_user";//Логин пользователя
-          String password = ";+VFl5U4~!Bn";//Пароль пользователя
+          String password = "";//Пароль пользователя
           String url = "jdbc:mysql://91.219.194.19:3306/genere_base";//URL адрес
           String driver = "com.mysql.jdbc.Driver";//Имя драйвера
           try {
